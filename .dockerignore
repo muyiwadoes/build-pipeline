@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# GitHub Actions
+.github/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE Files
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+
+# Documentation
+README.md
+
+# Docker Ignore File
+.dockerignore
